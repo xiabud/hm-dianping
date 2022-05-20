@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3377b8fb-0a58-4398-ab05-890786254bf3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\idearlIU\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\SoftWare\Development_tool\Java_tool\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="26MMlVhTw93ZoXiedqUvPw6VeEZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginindexNum" value="32" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\Java\Maven_project\hm-dianping\src\main\java\com\hmdp\service\impl" />
+      <recent name="E:\code\Java\Maven_project\hm-dianping\src\main\java\com\hmdp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hmdp.service.impl" />
+      <recent name="com.hmdp.service" />
+      <recent name="com.hmdp.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3377b8fb-0a58-4398-ab05-890786254bf3" name="Default Changelist" comment="" />
+      <created>1647229154335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647229154335</updated>
+      <workItem from="1647229155471" duration="1387000" />
+      <workItem from="1653061957115" duration="85000" />
+      <workItem from="1653062121248" duration="1023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="105" key="FileChooserDialogImpl" timestamp="1653062885704">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="496" y="105" key="FileChooserDialogImpl/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062885704" />
+    <state x="626" y="281" key="Github.ShareDialog" timestamp="1653062827658">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="626" y="281" key="Github.ShareDialog/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062827658" />
+    <state x="523" y="44" key="Github.UntrackedFilesDialog" timestamp="1653062881400">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="523" y="44" key="Github.UntrackedFilesDialog/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062881400" />
+    <state width="741" height="411" key="GridCell.Tab.0.bottom" timestamp="1653062563881">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.0.bottom/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563881" />
+    <state width="741" height="411" key="GridCell.Tab.0.center" timestamp="1653062563881">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.0.center/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563881" />
+    <state width="741" height="411" key="GridCell.Tab.0.left" timestamp="1653062563881">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.0.left/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563881" />
+    <state width="741" height="411" key="GridCell.Tab.0.right" timestamp="1653062563881">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.0.right/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563881" />
+    <state width="741" height="411" key="GridCell.Tab.1.bottom" timestamp="1653062563882">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.1.bottom/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563882" />
+    <state width="741" height="411" key="GridCell.Tab.1.center" timestamp="1653062563882">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.1.center/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563882" />
+    <state width="741" height="411" key="GridCell.Tab.1.left" timestamp="1653062563882">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.1.left/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563882" />
+    <state width="741" height="411" key="GridCell.Tab.1.right" timestamp="1653062563882">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="741" height="411" key="GridCell.Tab.1.right/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653062563882" />
+    <state x="261" y="77" key="Vcs.Push.Dialog.v2" timestamp="1653063154673">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="261" y="77" key="Vcs.Push.Dialog.v2/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653063154673" />
+    <state x="573" y="223" key="git4idea.ui.GitTagDialog" timestamp="1653063365719">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="573" y="223" key="git4idea.ui.GitTagDialog/-1920.0.1536.816/0.0.1536.816@0.0.1536.816" timestamp="1653063365719" />
+  </component>
+</project>
